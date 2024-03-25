@@ -1,0 +1,28 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding: 15px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    width: 400px;
+    text-align: center;
+}
+.login-form form {
+    display:flex;
+    flex-direction:column;
+    width: 90%;
+}
+
+.login-form input {
+    margin-bottom: 8px;
+    height:30px;
+}
