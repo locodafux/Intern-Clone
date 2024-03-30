@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="timer-container">
+        <div class="timer-container" style="background-color: #333A73">
             <h3>Timesheet</h3>
             <span id = "date-now">Date now</span>
             <span id="dur">time</span>
